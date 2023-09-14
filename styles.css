@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #FFFADD;
+}
+
+header {
+    color: #22668D;
+    text-align: center;
+    padding: 2px;
+    margin-right: 10%;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px;
+    padding: 20px;
+}
+
+nav {
+    color: #8ECDDD;
+    display: block;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 10px;
+    
+}
+
+nav li a{
+    color: #8ECDDD;
+    text-decoration: none;
+}
+
+/*----Slider----
